@@ -4,7 +4,7 @@ This project was completed as part of the STAT481: Fundamentals of Data Mining c
 It documents the data mining techniques and insights derived from financial and retail datasets.
 
 ## 👥 Team
-- **Ebrahim Juma Alsawan **  
+- **Ebrahim Juma Alsawan**  
 - **Ali Sameer**
 
 ## 🎯 Objective
